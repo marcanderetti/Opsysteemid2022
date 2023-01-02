@@ -16,5 +16,5 @@ Mina olen Marc Ander Etti ja see on minu 2022 sügise Operatsioonisüsteemide ku
 [11. praktikum](https://github.com/marcanderetti/Opsysteemid2022/blob/main/11.%20Praktikum/11.%20praktikum.md)  
 [12. praktikum](https://github.com/marcanderetti/Opsysteemid2022/blob/main/12.%20Praktikum/12.%20praktikum.md)  
 [13. praktikum](https://github.com/marcanderetti/Opsysteemid2022/blob/main/13.%20Praktikum/13.%20praktikum.md)  
-[13. praktikum](https://github.com/marcanderetti/Opsysteemid2022/blob/main/14.%20Praktikum/14.%20praktikum.md)  
-[13. praktikum](https://github.com/marcanderetti/Opsysteemid2022/blob/main/15.%20Praktikum/15.%20praktikum.md)  
+[14. praktikum](https://github.com/marcanderetti/Opsysteemid2022/blob/main/14.%20Praktikum/14.%20praktikum.md)  
+[15. praktikum](https://github.com/marcanderetti/Opsysteemid2022/blob/main/15.%20Praktikum/15.%20praktikum.md)  
